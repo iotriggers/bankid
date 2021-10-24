@@ -2,6 +2,8 @@
 
 # Import modules for CGI handling 
 import cgi, cgitb
+
+# Import BankID Model
 import model
 
 #Import Personnummer module
