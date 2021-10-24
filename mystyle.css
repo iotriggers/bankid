@@ -1,0 +1,35 @@
+    div
+    {
+      position:absolute;
+      top:30%;
+      right:0;
+      left:0;
+    }
+
+    p.form 
+    { 
+      padding: 15px;
+      font-size: large;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+    }
+
+    input.text
+    {
+      margin: 5px;
+      font-size: large;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;      
+      text-align: center;
+      width: 170px;
+    }
+
+    input.submit
+    {
+      margin: 5px;
+      font-size: large;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;      
+      text-align: center;
+      width: 170px;
+    }
